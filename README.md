@@ -1,6 +1,6 @@
 [![MasterHead](https://imgs.search.brave.com/dfLQqaUAGPO0j98PFjDydPXrLbZ8eGk4n8l81sY0OMI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL293/bnRoZXdlYi9kaXNj/b3JkLWFuaW1hdGVk/LXdlbGNvbWUtYm90/L21hc3Rlci9pbWcv/d2VsY29tZS5naWY.gif)]
 <h1 align="center">Hi 👋, I'm Lahiru Madhuwantha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Undergraduate Computer Engineering Student in the University of Ruhuna</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiru-madhuwantha&label=Profile%20views&color=0e75b6&style=flat" alt="lahiru-madhuwantha" /> </p>
